@@ -1,5 +1,7 @@
 ## type 与 interface
 
+https://www.edrawmax.cn/online/share.html?code=d1b8207e637811ef9fb927589a2da004
+
 在 TypeScript 中，[`type`](command:_github.copilot.openSymbolFromReferences?%5B%22type%22%2C%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22%2Fhome%2Farligle%2Fframword-study%2Fnest%2Fpackages%2Fcommon%2Finterfaces%2Fcontrollers%2Fcontroller.interface.ts%22%2C%22external%22%3A%22file%3A%2F%2F%2Fhome%2Farligle%2Fframword-study%2Fnest%2Fpackages%2Fcommon%2Finterfaces%2Fcontrollers%2Fcontroller.interface.ts%22%2C%22path%22%3A%22%2Fhome%2Farligle%2Fframword-study%2Fnest%2Fpackages%2Fcommon%2Finterfaces%2Fcontrollers%2Fcontroller.interface.ts%22%2C%22scheme%22%3A%22file%22%7D%2C%22pos%22%3A%7B%22line%22%3A0%2C%22character%22%3A7%7D%7D%5D%5D "Go to definition") 和 `interface` 都可以用来定义对象的类型，但它们有一些关键的区别和各自的使用场景。以下是它们的主要区别：
 
 ### 1. 定义方式
